@@ -1,1 +1,1 @@
-# -ICS4U-Unit3-04-typescript
+# ICS4U-Unit3-04-typescript
